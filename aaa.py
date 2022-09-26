@@ -47,4 +47,4 @@ def peula(tm, sp):
         print ('accepted ', tm.less_Avg(sp))
     else:
         print ('didnt accept')
-        print ('why??')
+        print ('why???')
